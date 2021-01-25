@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 from setuptools import setup
 
 setup(name='matrix_operations_for_the_basic_people',
