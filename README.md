@@ -9,7 +9,7 @@
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
-install the package
+Here's how to install the package:
    ```sh
    pip install matrix_operations_for_the_basic_people
    ```
