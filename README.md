@@ -2,9 +2,8 @@
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+3. [Package Descriptions](#files)
+4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -12,15 +11,11 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-This project is part of the Data Scientist Nanodegree from Udacity. 
+This project is part of portfolio exercises required to complete the Data Scientist Nanodegree from Udacity. The main purpose is to design a PyPi package that can be used to perform basic operations for matrices.
 
+## Package Descriptions <a name="files"></a>
 
-## File Descriptions <a name="files"></a>
-
-There is 1 main executable here which is Matrices.py in the matrix_operations folder. 
-
-## Results<a name="results"></a>
-
+There is 1 main executable here which is Matrices.py in the matrix_operations folder. The main class Matrix can be used to perform basic matrix operations including addition, subtraction and multiplication. The class requires two inputs in the form of a nested list and returns the result in the same form. 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
